@@ -1,4 +1,4 @@
-## Hi 👋 I’m Devalakshmi
+## Hi 👋 I’m Devalakshmi AS
 
 🎓 Student  
 💻 Learning programming, Git & GitHub  
